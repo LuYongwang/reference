@@ -333,11 +333,11 @@ Quick Reference
 <a href="https://github.com/hweining" title="hweining"><img src="https://avatars.githubusercontent.com/u/8973985?v=4" width="42;" alt="hweining"/></a>
 <a href="https://github.com/infanx" title="infanx"><img src="https://avatars.githubusercontent.com/u/65985757?v=4" width="42;" alt="infanx"/></a>
 <a href="https://github.com/auroraslot" title="irony"><img src="https://avatars.githubusercontent.com/u/48817882?v=4" width="42;" alt="irony"/></a>
-<a href="https://github.com/jlchen5" title="jlchen5"><img src="https://avatars.githubusercontent.com/u/61578993?v=4" width="42;" alt="jlchen5"/></a>
+<a href="https://github.com/jlchen5" title="J.Chen"><img src="https://avatars.githubusercontent.com/u/61578993?v=4" width="42;" alt="J.Chen"/></a>
 <a href="https://github.com/joyfully-W" title="joyfully-W"><img src="https://avatars.githubusercontent.com/u/32212924?v=4" width="42;" alt="joyfully-W"/></a>
 <a href="https://github.com/jqzhao7" title="jqzhao"><img src="https://avatars.githubusercontent.com/u/54694535?v=4" width="42;" alt="jqzhao"/></a>
 <a href="https://github.com/jussker" title="jussker"><img src="https://avatars.githubusercontent.com/u/33953356?v=4" width="42;" alt="jussker"/></a>
-<a href="https://github.com/k983551019" title="k983551019"><img src="https://avatars.githubusercontent.com/u/48147837?v=4" width="42;" alt="k983551019"/></a>
+<a href="https://github.com/k983551019" title="Evan-k"><img src="https://avatars.githubusercontent.com/u/48147837?v=4" width="42;" alt="Evan-k"/></a>
 <a href="https://github.com/kdxcxs" title="kdxcxs"><img src="https://avatars.githubusercontent.com/u/18746192?v=4" width="42;" alt="kdxcxs"/></a>
 <a href="https://github.com/kubeme" title="kubernetes for me"><img src="https://avatars.githubusercontent.com/u/16346220?v=4" width="42;" alt="kubernetes for me"/></a>
 <a href="https://github.com/Zeng-qh" title="都一样"><img src="https://avatars.githubusercontent.com/u/40046415?v=4" width="42;" alt="都一样"/></a>
@@ -522,12 +522,13 @@ Quick Reference
 [maoo.me](https://note.maoo.me)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 [deyout.com](https://ref.deyout.com)<!--rehype:target=_blank-->
 [xod.cc](https://ref.xod.cc)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
-[const.team](https://reference.const.team)<!--rehype:target=_blank-->  
-[jhao.me](http://reference.jhao.me/)<!--rehype:target=_blank-->  
-[7yueee.cn](https://memo.7yueee.cn/)<!--rehype:target=_blank-->  
-[liamng.top](https://refer.liamng.top/)<!--rehype:target=_blank-->  
-[maisblog.cn](https://reference.maisblog.cn/)<!--rehype:target=_blank-->  
-[ruochen.net](https://dev.ruochen.net/)<!--rehype:target=_blank-->  
+[const.team](https://reference.const.team)<!--rehype:target=_blank-->
+[jhao.me](http://reference.jhao.me/)<!--rehype:target=_blank-->
+[7yueee.cn](https://memo.7yueee.cn/)<!--rehype:target=_blank-->
+[liamng.top](https://refer.liamng.top/)<!--rehype:target=_blank-->
+[maisblog.cn](https://reference.maisblog.cn/)<!--rehype:target=_blank-->
+[ruochen.net](https://dev.ruochen.net/)<!--rehype:target=_blank-->
+[zcsk18.cn](https://reference.zcsk18.cn/)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
